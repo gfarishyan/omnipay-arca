@@ -1,5 +1,5 @@
 {
-    "name": "k3rnel/omnipay-arca",
+    "name": "gfarishyan/omnipay-arca",
     "type": "library",
     "description": "Arca gateway for Omnipay payment processing library",
     "keywords": [
@@ -11,7 +11,7 @@
         "arca",
         "purchase"
     ],
-    "homepage": "https://github.com/k3rnel/omnipay-arca",
+    "homepage": "https://github.com/gfarishyan/omnipay-arca",
     "license": "MIT",
     "authors": [
         {
