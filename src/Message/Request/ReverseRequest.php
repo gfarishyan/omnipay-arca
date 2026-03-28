@@ -2,7 +2,7 @@
 
 namespace Omnipay\Arca\Message\Request;
 
-use Omnipay\Arca\Message\AbstractRequest;
+#use Omnipay\Arca\Message\AbstractRequest;
 
 /**
  * Class ReverseRequest
